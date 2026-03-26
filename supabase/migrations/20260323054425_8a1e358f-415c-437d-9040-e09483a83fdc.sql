@@ -1,0 +1,1 @@
+ALTER TABLE public.provider_submissions ADD COLUMN pincode text;
